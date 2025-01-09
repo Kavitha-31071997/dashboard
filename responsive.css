@@ -70,11 +70,11 @@
   
   @media screen and (max-width: 490px) {
     .message {
-      display: none;
+      display: flex;
     }
     .logosec {
-      width: 100%;
-      justify-content: space-between;
+      width: 50%;
+      justify-content: space-evenly;
     }
     .logo {
       font-size: 20px;

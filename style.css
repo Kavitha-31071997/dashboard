@@ -57,7 +57,7 @@ header {
 .logosec {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-evenly;
 }
 
 .searchbar2 {
@@ -65,7 +65,7 @@ header {
 }
 
 .logosec {
-  gap: 60px;
+  gap: 20px;
 }
 
 .searchbar input {
